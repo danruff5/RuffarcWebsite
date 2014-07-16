@@ -1,0 +1,22 @@
+@charset "utf-8";
+.social_box {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    z-index: 1
+}
+.social_box * {
+    color: #A1040B;
+    text-decoration: none;
+    background: none;
+    border: 0px;
+}
+.fa-twitter-square:hover {
+    color: #55ACEE;
+}
+.fa-facebook-square:hover {
+    color: #3B5998;
+}
+.fa-user:hover {
+    color: #DDDD00;
+}
